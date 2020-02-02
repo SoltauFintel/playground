@@ -8,17 +8,13 @@ layout: default
 
 bli blu blo
 
-<a href="/playground/another-file.html">another file</a>
-
 [another file](another-file.html)
 
 ## Blog
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <a href="/playground{{post.url}}">{{post.title}}</a>
-    </li>
+    <li>[{{post.title}}]({{post.url}})</li>
   {% endfor %}
 </ul>
 
