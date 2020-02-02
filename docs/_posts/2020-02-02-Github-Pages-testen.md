@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Github Pages testen!"
+tags: [test, github]
 ---
 
 # Github Pages testen
