@@ -4,7 +4,7 @@
 
 bli blu blo
 
-<a href="/another-file.html">another file</a>
+<a href="/playground/another-file.html">another file</a>
 
 ## Blog
 
