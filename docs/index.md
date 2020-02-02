@@ -10,6 +10,8 @@ bli blu blo
 
 <a href="/playground/another-file.html">another file</a>
 
+[another file](another-file.html)
+
 ## Blog
 
 <ul>
